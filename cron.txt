@@ -1,0 +1,1 @@
+0 17 * * * cd C:\Users\peter\Downloads\Accounts\Melody\lnd-master\lnd-master && python3 commit_bot.py
